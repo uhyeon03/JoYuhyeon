@@ -6,5 +6,8 @@
  * 팀장
  * 프로젝트 기획
  * Figma를 이용한 UI 디자인
+ * MySQL을 이용한 데이터베이스 관리
  * Android Studio를 이용한 프런트엔드 개발
    
+사용 툴
+ : MySQL, Android Studio, MS Office(PowerPoint, Word)
