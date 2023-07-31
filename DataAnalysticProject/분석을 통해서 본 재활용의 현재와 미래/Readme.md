@@ -4,4 +4,4 @@
 
 역할/내용: 프로젝트 기획, 데이터 수집 및 정제, 데이터 분석, 보고서 작성 
 
-사용툴: MS Office(Excel, Word), Gephi
+사용툴: Excel, 한글 2018, Gephi
